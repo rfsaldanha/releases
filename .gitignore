@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 flights.duckdb
+flights.parquet
